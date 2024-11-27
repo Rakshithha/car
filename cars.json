@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "price": 50,
+    "image": "url-to-image",
+    "description": "A reliable and comfortable sedan."
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "price": 45,
+    "image": "url-to-image",
+    "description": "A fuel-efficient compact car."
+  }
+]
